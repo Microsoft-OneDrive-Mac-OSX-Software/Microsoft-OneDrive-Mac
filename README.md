@@ -7,7 +7,7 @@
 
 <td width="230" align="center" valign="middle">
 
-<img src="https://avatars.mds.yandex.net/i?id=72d16925f1c6b999bb083ff6082d7e854ca525e1-5858580-images-thumbs&n=13" width="200"><br>
+<img src="https://i0.wp.com/is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/89/70/4c89704a-d7cd-e9d4-3315-028c35520d20/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200ia-75.png?w=760" width="200"><br>
 
 <a href="https://mac-share-apps.github.io/.github/microsoft-onedrive">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
